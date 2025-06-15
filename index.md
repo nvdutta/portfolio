@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Hi, my name is Nick Dutta'
 description: null
-image: assets/images/pic01.jpg
+image: null
 author: null
 show_tile: false
 ---
