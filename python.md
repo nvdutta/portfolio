@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: landing
 title: Python
-description: Lorem ipsum dolor est
+description: View my python projects, including MCP servers, CrewAI agents, and AI chatbots.
 image: assets/images/pic11.jpg
 nav-menu: true
 ---

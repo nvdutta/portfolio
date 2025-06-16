@@ -1,7 +1,7 @@
 ---
 title: Games
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'View my game projects built with Godot, Unity, and Java.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
