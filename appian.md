@@ -2,7 +2,7 @@
 layout: landing
 title: Appian
 description: 'View my Appian work utilizing business processes, records, interfaces, and external service integrations.'
-image: assets/images/pic01.jpg
+image: assets/images/lostmonarch.jpg
 nav-menu: true
 ---
 
