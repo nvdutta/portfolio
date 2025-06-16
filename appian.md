@@ -12,9 +12,12 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>ICMX: Intelligent Case Management Xcelerator</h2>
+			<h2>ICMx: Intelligent Case Management Xcelerator</h2>
 		</header>
-		<p>A case management framework built in Appian that utilizes database connections, records, SAIL code and process models. Images provided with explicit permission from Silicon Spirit. Let me know if you would like to see a demo!</p>
+		<p>A case management framework built in Appian that utilizes database connections, records, SAIL code and process models. All images provided with explicit permission from Silicon Spirit Consulting. Let me know if you would like to see a demo!</p>
+		<ul class="actions">
+			<li><a href="mailto:nicholas.v.dutta@gmail.com?subject=ICMx%Demo%Request" class="button">Request a live demo</a></li>
+		</ul>
 	</div>
 </section>
 

@@ -48,9 +48,10 @@ nav-menu: true
 				<header class="major">
 					<h3>15th Century Monarch</h3>
 				</header>
-				<p>One of my first programming projects, built in java using basic java libraries.</p>
+				<p>A role-playing Discord chatbot powered by Gemini 2.5 flash.</p>
                 <ul class="actions">
-					<li><a href="https://oireoireoire.itch.io/trench-defenders" class="button">View project on github</a></li>
+					<li><a href="mailto:nicholas.v.dutta@gmail.com?subject=Monarch%Chatbot%Demo%Request" class="button">Request a live demo</a></li>
+					<li><a href="https://github.com/nvdutta/15th-Century-Monarch" class="button">View project on github</a></li>
 				</ul>
 			</div>
 		</div>
