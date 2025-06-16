@@ -16,7 +16,7 @@ nav-menu: true
 		</header>
 		<p>A case management framework built in Appian that utilizes database connections, records, SAIL code and process models. All images provided with explicit permission from Silicon Spirit Consulting. Let me know if you would like to see a demo!</p>
 		<ul class="actions">
-			<li><a href="mailto:nicholas.v.dutta@gmail.com?subject=ICMx%Demo%Request" class="button">Request a live demo</a></li>
+			<li><a href="mailto:nicholas.v.dutta@gmail.com?subject=ICMx%20Demo%20Request" class="button">Request a live demo</a></li>
 		</ul>
 	</div>
 </section>
