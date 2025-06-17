@@ -49,7 +49,7 @@ Finally, the main Monarch Bot agent reads the chosen fact, reads the question, a
 
 Question ---> Head Advisor chooses a sub advisor ---> Sub-advisor chooses one fact ---> Monarch considers the chosen fact and answers the question
 
-```mermaid
+<div class="mermaid">
 graph TD
     A[Receive Discord Message] --> B[Head Advisor]
     B --> C{Advisor Selection}
@@ -91,7 +91,7 @@ graph TD
     style MM fill:#bae1ff, color:#000000
     style LLM fill:#ffb3ba, color:#000000
     style U fill:#fff3e0,color:#000000
-```
+</div>
 
 ## How to Use the Repository
 
