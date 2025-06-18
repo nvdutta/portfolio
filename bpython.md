@@ -35,7 +35,7 @@ nav-menu: true
 					<h3>Tavily Python MCP Server</h3>
 				</header>
 				<p>A simple MCP server that uses Tavily's python SDK for web search and web scraping tools. Compatible with Claude Desktop.<br><br>
-				<span class="badge">Python</span>  <span class="badge">Model Context Protocol</span>  <span class="badge">Claude Desktop</span>  <span class="badge">AI Agents</span>
+				<span class="badge">Python</span>  <span class="badge">Model Context Protocol</span>  <span class="badge">Claude Desktop</span>  <span class="badge">Open Source</span>
 				</p>
 				<ul class="actions">
 					<li><a href="https://github.com/nvdutta/Tavily-Python-MCP" class="button">View project on github</a></li>
@@ -53,7 +53,7 @@ nav-menu: true
 					<h3>15th Century Monarch</h3>
 				</header>
 				<p>A role-playing Discord chatbot powered by Gemini 2.5 flash.<br><br>
-				<span class="badge">Python</span>  <span class="badge">Discord</span>  <span class="badge">Google Gemini</span>  <span class="badge">AI Agents</span>
+				<span class="badge">Python</span>  <span class="badge">Discord</span>  <span class="badge">Google Gemini</span>  <span class="badge">Open Source</span>
 				</p>
                 <ul class="actions">
 					<li><a href="monarch-bot.html" class="button">Read full post</a></li>
