@@ -17,13 +17,13 @@ nav-menu: true
 		<p>A case management framework built in Appian that utilizes database connections, records, SAIL code and process models. All images provided with explicit permission from Silicon Spirit Consulting. Let me know if you would like to see a demo!</p>
 		<ul class="actions">
 			<li><a href="mailto:nicholas.v.dutta@gmail.com?subject=ICMx%20Demo%20Request" class="button">Request a live demo</a></li>
-			<li><a href="#two" class="button next">Features</a></li>
+			<li><a href="#features" class="button next scrolly">Features</a></li>
 		</ul>
 	</div>
 </section>
 
-<!-- Two -->
-<section id="two" class="spotlights">
+<!-- Features -->
+<section id="features" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/appian/icmxdashboard.jpg %}" alt="" data-position="center center" />
