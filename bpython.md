@@ -1,7 +1,7 @@
 ---
 title: Python
 layout: landing
-image: assets/images/python/lostmonarch.jpg
+#image: assets/images/python/lostmonarch.jpg
 nav-menu: true
 ---
 

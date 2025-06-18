@@ -1,7 +1,7 @@
 ---
 title: Appian
 layout: landing
-image: assets/images/appian/processmodel.jpg
+#image: assets/images/appian/processmodel.jpg
 nav-menu: true
 ---
 
