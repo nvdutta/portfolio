@@ -11,7 +11,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="" class="image">
+		<a href="#" class="image">
 			<img src="{% link assets/images/games/fiveletterhustlehome.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -27,7 +27,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="" class="image">
+		<a href="#" class="image">
 			<img src="{% link assets/images/games/trenchdefender.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -44,7 +44,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="" class="image">
+		<a href="#" class="image">
 			<img src="{% link assets/images/games/levelbursthome.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
