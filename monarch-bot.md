@@ -1,8 +1,12 @@
 ---
-layout: page
+layout: landing
 title: Lost 15th Century Monarch
+nav-menu: false
+show_tile: false
 ---
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Ranc_Jean_Louis_XIV_Fabre_museum.jpg" align="right" height="240px" />
+
 This is King Maximilian VII.
 A fictitious 15th century monarch that answers ice breaker questions.
 Built to run as a discord bot and respond to "qotd" messages as well as direct mentions.
