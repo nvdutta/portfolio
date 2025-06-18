@@ -19,8 +19,7 @@ nav-menu: true
 				<header class="major">
 					<h3>CrewAI Summary Writer</h3>
 				</header>
-				<p>A summary writing agent built with the CrewAI python framework. Uses FastAPI to expose endpoints.</p>
-				<span class="badge">New</span> 
+				<p>A summary writing agent built with the CrewAI python framework. <span class="badge">New</span> Uses FastAPI to expose endpoints.</p>
 			</div>
 		</div>
 	</section>
