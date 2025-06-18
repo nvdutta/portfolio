@@ -68,7 +68,7 @@ nav-menu: true
 				<span class="badge">SAIL</span>  <span class="badge">Integrations</span>  <span class="badge">CrewAI</span>  <span class="badge">AI Agents</span>
 				</p>
 				<ul class="actions">
-					<li><a href="python.html" class="button">See CrewAI Summary Writer</a></li>
+					<li><a href="bpython.html" class="button">See python description</a></li>
 				</ul>
 			</div>
 		</div>
