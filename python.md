@@ -50,7 +50,7 @@ nav-menu: true
 				</header>
 				<p>A role-playing Discord chatbot powered by Gemini 2.5 flash.</p>
                 <ul class="actions">
-					<li><a href="2025-6-10-monarch-bot.md" class="button">Read full post</a></li>
+					<li><a href="monarch-bot.html" class="button">Read full post</a></li>
 					<li><a href="https://github.com/nvdutta/15th-Century-Monarch" class="button">View project on github</a></li>
 				</ul>
 			</div>
