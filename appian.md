@@ -34,7 +34,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Supervisor Dashboard</h3>
 				</header>
-				<p>A multi-piece dashboard for business supervisors to view weekly progress and updates from case workers.<br>
+				<p>A multi-piece dashboard for business supervisors to view weekly progress and updates from case workers.<br><br>
 				<span class="badge">SAIL</span>  <span class="badge">Records</span>  <span class="badge">Queries</span>  <span class="badge">Interfaces</span>
 				</p>
 			</div>
@@ -49,7 +49,7 @@ nav-menu: true
 				<header class="major">
 					<h3>AI Rewriter</h3>
 				</header>
-				<p>An Appian integration with Deepseek API to revise summaries for errors and make them more compelling.<br>
+				<p>An Appian integration with Deepseek API to revise summaries for errors and make them more compelling.<br><br>
 				<span class="badge">SAIL</span>  <span class="badge">Interfaces</span>  <span class="badge">Integrations</span>  <span class="badge">Deepseek</span>
 				</p>
 			</div>
@@ -64,7 +64,7 @@ nav-menu: true
 				<header class="major">
 					<h3>AI Summary Writer</h3>
 				</header>
-				<p>An Appian Integration with a CrewAI workflow. Drafts an initial summary based on the details and history of a case.<br>
+				<p>An Appian Integration with a CrewAI workflow. Drafts an initial summary based on the details and history of a case.<br><br>
 				<span class="badge">SAIL</span>  <span class="badge">Integrations</span>  <span class="badge">CrewAI</span>  <span class="badge">AI Agents</span>
 				</p>
 				<ul class="actions">

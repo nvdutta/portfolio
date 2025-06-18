@@ -19,9 +19,9 @@ nav-menu: true
 				<header class="major">
 					<h3>CrewAI Summary Writer</h3>
 				</header>
-				<p>A summary writing agent built with the CrewAI python framework. Uses FastAPI to expose endpoints.<br>
+				<p>A summary writing agent built with the CrewAI python framework. Uses FastAPI to expose endpoints.<br><br>
 				<span class="badge">Python</span>  <span class="badge">CrewAI</span>  <span class="badge">API</span>  <span class="badge">
-				AI Agents</span><p>
+				AI Agents</span></p>
 			</div>
 		</div>
 	</section>
@@ -34,7 +34,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Tavily Python MCP Server</h3>
 				</header>
-				<p>A simple MCP server that uses Tavily's python SDK for web search and web scraping tools. Compatible with Claude Desktop.<br>
+				<p>A simple MCP server that uses Tavily's python SDK for web search and web scraping tools. Compatible with Claude Desktop.<br><br>
 				<span class="badge">Python</span>  <span class="badge">Model Context Protocol</span>  <span class="badge">Claude Desktop</span>  <span class="badge">AI Agents</span>
 				</p>
 				<ul class="actions">
@@ -52,7 +52,7 @@ nav-menu: true
 				<header class="major">
 					<h3>15th Century Monarch</h3>
 				</header>
-				<p>A role-playing Discord chatbot powered by Gemini 2.5 flash.<br>
+				<p>A role-playing Discord chatbot powered by Gemini 2.5 flash.<br><br>
 				<span class="badge">Python</span>  <span class="badge">Discord</span>  <span class="badge">Google Gemini</span>  <span class="badge">AI Agents</span>
 				</p>
                 <ul class="actions">

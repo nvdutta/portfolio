@@ -20,6 +20,7 @@ Since the amount of context passed on any individual LLM call is also much small
 Monarch Bot responds to two different types of questions:
 - *Question of the Day*: The first message of the day that starts with "QOTD:" (case and formatting insensitive)
 - *Mentions*: A direct mention, including replies, but not @everyone or @here
+
 Monarch Bot is better described as an Agentic system with multiple subagents:
 
 - **Head Advisor** delegates the question to the sub advisor most likely to have relevant knowledge.

@@ -19,7 +19,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Five Letter Hustle</h3>
 				</header>
-				<p>A fast paced falling word game written with GDScript in the Godot engine.<br>
+				<p>A fast paced falling word game written with GDScript in the Godot engine.<br><br>
 				<span class="badge">GDScript</span>  <span class="badge">Godot</span>  <span class="badge">Browser</span>
 				</p>
 				<ul class="actions">
@@ -38,7 +38,7 @@ nav-menu: true
 					<h3>Trench Defender</h3>
 				</header>
 				<p>An arcade-style speedrunning game about clearing invasive fish from the ocean. Built with a small team using GDScript and the Godot engine. Made in 10 days for Pixel Game Jam 2024. I learned many lessons from this project, including the importance of user testing early and often.
-				The game is exceedingly difficult.<br>
+				The game is exceedingly difficult.<br><br>
 				<span class="badge">GDScript</span>  <span class="badge">Godot</span>  <span class="badge">Team</span>  <span class="badge">Browser</span>
 				</p>
 				<ul class="actions">
@@ -56,7 +56,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Level Burst</h3>
 				</header>
-				<p>One of my first programming projects, built in java using basic java libraries.<br>
+				<p>One of my first programming projects, built in java using basic java libraries.<br><br>
 				<span class="badge">Java</span>  <span class="badge">Java Swing</span>
 				</p>
 			</div>
