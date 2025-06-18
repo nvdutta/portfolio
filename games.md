@@ -1,7 +1,7 @@
 ---
 title: Games
 layout: landing
-image: assets/images/pic07.jpg
+image: assets/images/games/fiveletterhustlehome.jpg
 nav-menu: true
 ---
 
