@@ -34,7 +34,7 @@ nav-menu: true
 				</header>
 				<p>A simple MCP server that uses Tavily's python SDK for web search and web scraping tools. Compatible with Claude Desktop.</p>
 				<ul class="actions">
-					<li><a href="https://oireoireoire.itch.io/trench-defenders" class="button">View project on github</a></li>
+					<li><a href="https://github.com/nvdutta/Tavily-Python-MCP" class="button">View project on github</a></li>
 				</ul>
 			</div>
 		</div>
@@ -50,8 +50,7 @@ nav-menu: true
 				</header>
 				<p>A role-playing Discord chatbot powered by Gemini 2.5 flash.</p>
                 <ul class="actions">
-					<li><a href="mailto:nicholas.v.dutta@gmail.com?subject=Monarch%20Chatbot%20Demo%20Request" class="button">Request a live demo</a></li>
-					<li><a href="https://github.com/nvdutta/15th-Century-Monarch" class="button">Read full post</a></li>
+					<li><a href="2025-6-10-monarch-bot.md" class="button">Read full post</a></li>
 					<li><a href="https://github.com/nvdutta/15th-Century-Monarch" class="button">View project on github</a></li>
 				</ul>
 			</div>
